@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="names">
+    <item>Student</item>
+    <item>Employee</item>
+    <item>teacher</item>
+    <item>Customer</item>
+    <item>EXIT</item>
+
+    </string-array>
+    <string name="button2">REGISTER</string>
+</resources>
